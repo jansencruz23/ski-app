@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TPTP5zUoVKMpggbWodAQ+3amPiImNycYXkCnMFXYZ8bgmAQjopmYlsVwGF57xn9d5icsru8b1NuQJ864Vyx/Rw==",
+  "dgSpecHash": "dCFC7VaOjVeL75WVYjcD7EPuRsQ1ghi5VeDvCR4rmVq82cSDJHW2rz+PBLBUZVW2UPnj01CtxQYrb6WnI3DKYQ==",
   "success": true,
-  "projectFilePath": "C:\\BSCS 2-1 CRUZ\\OOP\\Finals\\SkiApp\\SkiApp.csproj",
+  "projectFilePath": "D:\\User\\Jansen\\Self Study\\2023 - 11 - NOVEMBER\\C#\\SkiApp\\SkiApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

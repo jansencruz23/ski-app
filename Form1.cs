@@ -17,7 +17,7 @@ namespace SkiApp
         private void displayToolStripMenuItem_Click(object sender, EventArgs e)
         {
             List<Item> items = new();
-            foreach (var cb in Controls.OfType<Guna2CheckBox>())
+            foreach (var cb in guna2Panel1.Controls.OfType<Guna2CheckBox>())
             {
                 if (cb.Checked)
                 {

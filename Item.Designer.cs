@@ -30,41 +30,42 @@
         {
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            imgIcon = new Guna.UI2.WinForms.Guna2PictureBox();
-            lblName = new Label();
-            ((System.ComponentModel.ISupportInitialize)imgIcon).BeginInit();
-            SuspendLayout();
+            this.imgIcon = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.lblName = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.imgIcon)).BeginInit();
+            this.SuspendLayout();
             // 
             // imgIcon
             // 
-            imgIcon.CustomizableEdges = customizableEdges1;
-            imgIcon.ImageRotate = 0F;
-            imgIcon.Location = new Point(3, 3);
-            imgIcon.Name = "imgIcon";
-            imgIcon.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            imgIcon.Size = new Size(75, 70);
-            imgIcon.SizeMode = PictureBoxSizeMode.StretchImage;
-            imgIcon.TabIndex = 0;
-            imgIcon.TabStop = false;
+            this.imgIcon.CustomizableEdges = customizableEdges1;
+            this.imgIcon.ImageRotate = 0F;
+            this.imgIcon.Location = new System.Drawing.Point(3, 3);
+            this.imgIcon.Name = "imgIcon";
+            this.imgIcon.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            this.imgIcon.Size = new System.Drawing.Size(75, 70);
+            this.imgIcon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.imgIcon.TabIndex = 0;
+            this.imgIcon.TabStop = false;
             // 
             // lblName
             // 
-            lblName.Location = new Point(97, 22);
-            lblName.Name = "lblName";
-            lblName.Size = new Size(122, 33);
-            lblName.TabIndex = 1;
-            lblName.Text = "label1";
+            this.lblName.Location = new System.Drawing.Point(97, 22);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(122, 33);
+            this.lblName.TabIndex = 1;
+            this.lblName.Text = "label1";
             // 
             // Item
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            Controls.Add(lblName);
-            Controls.Add(imgIcon);
-            Name = "Item";
-            Size = new Size(236, 76);
-            ((System.ComponentModel.ISupportInitialize)imgIcon).EndInit();
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.lblName);
+            this.Controls.Add(this.imgIcon);
+            this.Name = "Item";
+            this.Size = new System.Drawing.Size(236, 76);
+            ((System.ComponentModel.ISupportInitialize)(this.imgIcon)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion

@@ -30,3 +30,35 @@ C:\BSCS 2-1 CRUZ\OOP\Finals\SkiApp\bin\Debug\net7.0-windows\Icons\ear.avif
 C:\BSCS 2-1 CRUZ\OOP\Finals\SkiApp\bin\Debug\net7.0-windows\Icons\goggles.jpg
 C:\BSCS 2-1 CRUZ\OOP\Finals\SkiApp\bin\Debug\net7.0-windows\Icons\poles.png
 C:\BSCS 2-1 CRUZ\OOP\Finals\SkiApp\bin\Debug\net7.0-windows\Icons\skis.png
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\bindings.jpg
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\boots.jpg
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\download.jpg
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\ear.avif
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\ear.jpg
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\goggles.jpg
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\poles.png
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Icons\skis.png
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\SkiApp.exe
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\SkiApp.deps.json
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\SkiApp.runtimeconfig.json
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\SkiApp.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\SkiApp.pdb
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\System.Management.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.csproj.AssemblyReference.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.Form1.resources
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.Item.resources
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.Properties.Resources.resources
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.Show.resources
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.csproj.GenerateResource.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.AssemblyInfoInputs.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.AssemblyInfo.cs
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.csproj.CoreCompileInputs.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.csproj.CopyComplete
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\refint\SkiApp.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.pdb
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\SkiApp.genruntimeconfig.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\SkiApp\obj\Debug\net7.0-windows\ref\SkiApp.dll
