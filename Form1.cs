@@ -41,7 +41,7 @@ namespace SkiApp
 
         private void clearToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            foreach (var cb in Controls.OfType<Guna2CheckBox>())
+            foreach (var cb in guna2Panel1.Controls.OfType<Guna2CheckBox>())
             {
                 cb.Checked = false;
             }

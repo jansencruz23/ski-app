@@ -53,9 +53,9 @@ namespace SkiApp
             this.panelShow.AutoScroll = true;
             this.panelShow.BackColor = System.Drawing.Color.WhiteSmoke;
             this.panelShow.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.panelShow.Location = new System.Drawing.Point(0, 52);
+            this.panelShow.Location = new System.Drawing.Point(0, 60);
             this.panelShow.Name = "panelShow";
-            this.panelShow.Size = new System.Drawing.Size(268, 287);
+            this.panelShow.Size = new System.Drawing.Size(268, 281);
             this.panelShow.TabIndex = 0;
             this.panelShow.WrapContents = false;
             // 
